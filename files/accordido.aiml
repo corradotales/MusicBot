@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>do maggiore</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do Maggiore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/LlZxyFZ.jpg</image>
+            <image>https://i.imgur.com/VL5bBAD.jpg</image>
+            <image>https://i.imgur.com/JG4XQ8m.jpg</image>
+            <image>https://i.imgur.com/tQMsIJ5.jpg</image>
+            <image>https://i.imgur.com/Wriw2J7.jpg</image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>* do maggiore</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do Maggiore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/LlZxyFZ.jpg</image>
+            <image>https://i.imgur.com/VL5bBAD.jpg</image>
+            <image>https://i.imgur.com/JG4XQ8m.jpg</image>
+            <image>https://i.imgur.com/tQMsIJ5.jpg</image>
+            <image>https://i.imgur.com/Wriw2J7.jpg</image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>do maggiore *</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do Maggiore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/LlZxyFZ.jpg</image>
+            <image>https://i.imgur.com/VL5bBAD.jpg</image>
+            <image>https://i.imgur.com/JG4XQ8m.jpg</image>
+            <image>https://i.imgur.com/tQMsIJ5.jpg</image>
+            <image>https://i.imgur.com/Wriw2J7.jpg</image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>* do maggiore *</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do Maggiore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/LlZxyFZ.jpg</image>
+            <image>https://i.imgur.com/VL5bBAD.jpg</image>
+            <image>https://i.imgur.com/JG4XQ8m.jpg</image>
+            <image>https://i.imgur.com/tQMsIJ5.jpg</image>
+            <image>https://i.imgur.com/Wriw2J7.jpg</image>
+        </template>
+    </category>
+
+
+<category>
+        <pattern>do minore</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do minore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/lXvyewL.jpg</image>
+            <image>https://i.imgur.com/TFRmSVa.jpg</image>
+            <image>https://i.imgur.com/6LsprRc.jpg</image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>* do minore</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do minore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/lXvyewL.jpg</image>
+            <image>https://i.imgur.com/TFRmSVa.jpg</image>
+            <image>https://i.imgur.com/6LsprRc.jpg</image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>do minore *</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do minore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/lXvyewL.jpg</image>
+            <image>https://i.imgur.com/TFRmSVa.jpg</image>
+            <image>https://i.imgur.com/6LsprRc.jpg</image>
+        </template>
+    </category>
+    
+<category>
+        <pattern>* do minore *</pattern>
+        <template>
+            Ecco le immagini che rappresentano l'Accordo di "Do minore"
+            in tutte le Forme del Sistema 'CAGED' nelle quali può essere suonato 😊:
+            <image>https://i.imgur.com/lXvyewL.jpg</image>
+            <image>https://i.imgur.com/TFRmSVa.jpg</image>
+            <image>https://i.imgur.com/6LsprRc.jpg</image>
+        </template>
+    </category>
+    
+
+</aiml>

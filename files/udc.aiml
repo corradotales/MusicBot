@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- Messaggio di benvenuto e introduzione al tema specifico -->
+  <category>
+    <pattern>*</pattern>
+    <template>
+      Ciao. Sono il tuo Assistente virtuale, progettato e realizzato da Corrado Tales.
+      Non posso rispondere ad ogni tua richiesta generica, e non sono in grado di parlare
+      con te di ogni argomento. Sono in costante evoluzione. In questo momento sono
+      in grado di farti vedere solo gli "Accordi per Chitarra" (che comunque è un argomento estremamente vasto).
+      Man mano che verrò aggiornato ed il mio bagaglio culturale crescerà, verrai informato dell'implementazione
+      delle nuova Funzionalità, in apertura di questa Chat.
+      Ma ora... basta con le chiacchiere 😊 Cominciamo subito!!!
+      
+      Prova a digitare il nome di un qualsiasi Accordo tu abbia voglia di vedere.
+      Digita ad esempio "DO MAGGIORE"... 😉 ...
+      Se invece vuoi conoscere la lista delle immagini disponibili degli Accordi,
+      digita in qualunque momento la parola "LISTA".
+    </template>
+  </category>
+
+  <!-- Risposta generica per proseguire la conversazione -->
+  <category>
+    <pattern>* LISTA *</pattern>
+    <template>Questa è la 'lista' completa di tutti gli Accordi che puoi vedere, digitando questi comandi:<br/>
+    "[Tonica] + MAGGIORE" <br/>
+    "[Tonica] + MINORE"</template>
+  </category>
+<category>
+    <pattern>* LISTA</pattern>
+    <template>Questa è la 'lista' completa di tutti gli Accordi che puoi vedere, digitando questi comandi:<br/>
+    "[Tonica] + MAGGIORE" <br/>
+    "[Tonica] + MINORE"</template>
+  </category>
+  <category>
+    <pattern>LISTA *</pattern>
+    <template>Questa è la 'lista' completa di tutti gli Accordi che puoi vedere, digitando questi comandi:<br/>
+    "[Tonica] + MAGGIORE" <br/>
+    "[Tonica] + MINORE"</template>
+  </category>
+  <category>
+    <pattern>LISTA</pattern>
+    <template>Questa è la 'lista' completa di tutti gli Accordi che puoi vedere, digitando questi comandi:<br/>
+    "[Tonica] + MAGGIORE" <br/>
+    "[Tonica] + MINORE"</template>
+  </category>
+  
+</aiml>
